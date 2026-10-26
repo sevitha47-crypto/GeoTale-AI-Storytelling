@@ -1,54 +1,68 @@
-🌍 GeoTale AI
-Turn Your Memories Into Cinematic Journeys
-GeoTale AI is an AI-powered storytelling platform that transforms travel experiences, personal memories, and special moments into interactive, cinematic journeys. By combining interactive maps, photos, videos, and personalized storytelling, it helps users preserve and relive their experiences in a visually engaging way.
+# 🌍 GeoTale AI — Cinematic Map Storyteller
 
-✨ Features
-🗺️ Interactive Memory Maps — Connect memories to real-world locations on a map.
-📸 Photo & Video Memories — Attach photos and videos to specific places and events.
-🎬 Cinematic Storytelling — Transform personal experiences into visually engaging journeys.
-🧭 Travel Route Visualization — Explore journeys through connected locations and memories.
-🎓 Personal Timeline — Organize college events, trips, celebrations, and milestones chronologically.
-💾 Saved Journeys — Revisit previously created memory journeys.
-🔐 User Authentication — Support personal accounts and private memory collections.
-📤 Shareable Experiences — Share memorable journeys with friends and family.
-🎯 Project Objective
-The main objective of GeoTale AI is to make personal memories more interactive and meaningful by combining geographic locations, multimedia content, and cinematic storytelling in one platform.
+**Turn your memories into cinematic journeys.**
 
-Instead of keeping photos and videos disconnected in a gallery, users can associate them with actual places and explore their experiences through a visual journey.
+GeoTale AI is a web-based storytelling platform that transforms travel experiences, college memories, outings, and special occasions into interactive geographic stories. It combines location-based memories, photographs, animated routes, and AI-assisted captions to create a more engaging way to preserve and revisit meaningful experiences.
 
-🛠️ Technology Stack
-The following technologies are planned for the project; the final stack depends on the implemented version.
+## ✨ Features
 
-Frontend: React.js
-Backend: Node.js and Express.js
-Database: MongoDB
-Maps: Interactive mapping integration
-AI Integration: Personalized storytelling and memory organization
-Media: Photo and video upload support
-⚙️ How It Works
-Create an account and sign in.
-Create a new memory journey.
-Add locations, dates, descriptions, photos, and videos.
-Connect memories to locations on the interactive map.
-Explore the journey through its geographic route and timeline.
-Save and revisit journeys whenever needed.
-🌟 Use Cases
-Travel memories and vacation journeys
-College life and campus events
-Birthday celebrations and special occasions
-Friends' meetups and personal milestones
-Family trips and memorable experiences
-🚀 Future Enhancements
-AI-generated personalized story narration
-Automatic cinematic video creation
-Smart memory grouping by location, date, and event
-Custom themes and journey templates
-Social sharing and collaborative memory creation
-Interactive 3D maps and animated route transitions
-🎓 Academic Project
-GeoTale AI is a Full Stack Development project focused on combining interactive mapping, multimedia management, personalized storytelling, and modern web technologies.
+- 🗺️ **Interactive Maps** — Associate memories with real-world locations.
+- 📍 **Journey Visualization** — Connect locations through an ordered travel route.
+- 📸 **Photo Memories** — Attach photos to individual stops in a journey.
+- ✍️ **AI-Assisted Captions** — Generate cinematic captions from personal notes.
+- 🎬 **Cinematic Playback** — Explore a journey through animated map transitions.
+- 🧭 **Personal Memory Stories** — Organize trips, college events, celebrations, and outings.
+- 🎨 **Map Customization** — Choose map styles and personalize the storytelling experience.
+- 🎵 **Ambient Audio** — Enhance playback with browser-generated soundscapes.
+- 💾 **Story Export** — Export journeys in supported HTML and JSON formats.
 
-👩‍💻 Author
-Sai Naga Sevitha Pagolu
+## 🎯 Project Objective
 
-GeoTale AI — Every place has a story. Every memory deserves a journey.
+The objective of GeoTale AI is to bring locations, photographs, personal notes, and storytelling together in one interactive platform. Rather than keeping memories scattered across galleries and applications, users can organize their experiences into meaningful journeys that can be explored, replayed, and preserved.
+
+## 🛠️ Technology Stack
+
+- **Frontend:** React, TypeScript, Tailwind CSS
+- **Mapping:** Leaflet and OpenStreetMap
+- **Backend:** Node.js and Express.js
+- **AI Integration:** Google Gemini API
+- **Geocoding:** OpenStreetMap Nominatim
+- **Audio:** Web Audio API
+- **Development Tools:** Vite and TypeScript
+
+## ⚙️ How It Works
+
+1. Sign in or explore the available sample stories.
+2. Create a new memory story.
+3. Add locations, dates, moods, photographs, and personal notes.
+4. Organize the stops in the desired journey sequence.
+5. Refine captions and customize the story settings.
+6. Play the journey using the cinematic map interface.
+7. Export the completed story in a supported format.
+
+## 🌟 Use Cases
+
+- Travel and vacation memories
+- College life and campus events
+- Friends' outings and reunions
+- Birthday celebrations and special occasions
+- Family trips and personal milestones
+
+## 🚀 Future Enhancements
+
+- Secure authentication and database integration
+- Cloud storage for photographs and videos
+- Cinematic video and reel generation
+- Shareable public journey links
+- Collaborative storytelling
+- Advanced route animations and interactive 3D maps
+
+## 🎓 Academic Project
+
+GeoTale AI is a Full Stack Development project exploring the integration of interactive mapping, multimedia storytelling, and AI-assisted content generation in a modern web application.
+
+## 👩‍💻 Author
+
+**Sai Naga Sevitha Pagolu**
+
+*GeoTale AI — Every place has a story. Every memory deserves a journey.*
