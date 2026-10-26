@@ -1,0 +1,6 @@
+{
+  "name": "GeoTale AI — Cinematic Map Storyteller",
+  "description": "Transform personal memories and journeys into cinematic, interactive geographic stories with anchored media cards, animated routes, and AI narration.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
